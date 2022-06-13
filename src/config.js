@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'erfan.siam98@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/erfan98',
     },
     {
       name: 'Instagram',
@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/erfan98',
     },
     {
       name: 'Codepen',
@@ -28,6 +28,10 @@ module.exports = {
     {
       name: 'About',
       url: '/#about',
+    },
+    {
+      name: 'Qualifications',
+      url: '/#qualifications',
     },
     {
       name: 'Experience',
